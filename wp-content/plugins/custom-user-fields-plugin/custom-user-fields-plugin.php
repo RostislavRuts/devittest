@@ -171,6 +171,7 @@ function get_all_users(){
                     </a>
                 </h4>
             </div>
+
         </li>
     <?php }
     echo '</ul>';
